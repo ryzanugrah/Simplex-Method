@@ -1,6 +1,3 @@
-PROGRAM METODE SIMPLEX (OPERASIONAL RISET)
+SIMPLEX METHOD PROGRAM
 
-Nama	: Rizky Anugerah
-NPM	: 140810180049
-
-Buka file 'MetodeSimplex.html'
+Open link in https://ryzanugrah.github.io/Simplex-Method
